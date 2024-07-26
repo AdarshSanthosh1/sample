@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F615878A-DA34-4D92-A810-3C5117D7A9DE}|LOANPROJECT.APP.MODEL\\LOANPROJECT.APP.MODEL.csproj|c:\\users\\adarshsanthosh\\downloads\\loanproject.app.api\\loanproject.app.api\\loanproject.app.model\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F615878A-DA34-4D92-A810-3C5117D7A9DE}|LOANPROJECT.APP.MODEL\\LOANPROJECT.APP.MODEL.csproj|solutionrelative:loanproject.app.model\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39D404-D1A8-4A3A-B272-8138E87EA225}|LOANPROJECT.APP.DAL\\LOANPROJECT.APP.DAL.csproj|c:\\users\\adarshsanthosh\\downloads\\loanproject.app.api\\loanproject.app.api\\loanproject.app.dal\\loandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39D404-D1A8-4A3A-B272-8138E87EA225}|LOANPROJECT.APP.DAL\\LOANPROJECT.APP.DAL.csproj|solutionrelative:loanproject.app.dal\\loandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD531E10-4F5F-4C8C-BBD9-4FC9EC47F05C}|LOANPROJECT.APP.API\\LOANPROJECT.APP.API.csproj|c:\\users\\adarshsanthosh\\downloads\\loanproject.app.api\\loanproject.app.api\\loanproject.app.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD531E10-4F5F-4C8C-BBD9-4FC9EC47F05C}|LOANPROJECT.APP.API\\LOANPROJECT.APP.API.csproj|solutionrelative:loanproject.app.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01174E1-B348-469E-8A61-09E0ACEAD666}|LOANPROJECT.APP.BLL\\LOANPROJECT.APP.BLL.csproj|c:\\users\\adarshsanthosh\\downloads\\loanproject.app.api\\loanproject.app.api\\loanproject.app.bll\\loanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01174E1-B348-469E-8A61-09E0ACEAD666}|LOANPROJECT.APP.BLL\\LOANPROJECT.APP.BLL.csproj|solutionrelative:loanproject.app.bll\\loanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD531E10-4F5F-4C8C-BBD9-4FC9EC47F05C}|LOANPROJECT.APP.API\\LOANPROJECT.APP.API.csproj|c:\\users\\adarshsanthosh\\downloads\\loanproject.app.api\\loanproject.app.api\\loanproject.app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD531E10-4F5F-4C8C-BBD9-4FC9EC47F05C}|LOANPROJECT.APP.API\\LOANPROJECT.APP.API.csproj|solutionrelative:loanproject.app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\Program.cs",
+              "RelativeDocumentMoniker": "LOANPROJECT.APP.API\\Program.cs",
+              "ToolTip": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\Program.cs",
+              "RelativeToolTip": "LOANPROJECT.APP.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:29:41.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.BLL\\LoanBLL.cs",
+              "RelativeDocumentMoniker": "LOANPROJECT.APP.BLL\\LoanBLL.cs",
+              "ToolTip": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.BLL\\LoanBLL.cs",
+              "RelativeToolTip": "LOANPROJECT.APP.BLL\\LoanBLL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:24:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.DAL\\LoanDAL.cs",
+              "RelativeDocumentMoniker": "LOANPROJECT.APP.DAL\\LoanDAL.cs",
+              "ToolTip": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.DAL\\LoanDAL.cs",
+              "RelativeToolTip": "LOANPROJECT.APP.DAL\\LoanDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:24:26.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.MODEL\\Loan.cs",
+              "RelativeDocumentMoniker": "LOANPROJECT.APP.MODEL\\Loan.cs",
+              "ToolTip": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.MODEL\\Loan.cs",
+              "RelativeToolTip": "LOANPROJECT.APP.MODEL\\Loan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:24:08.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LOANPROJECT.APP.API\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\adarshsanthosh\\Downloads\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\LOANPROJECT.APP.API\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LOANPROJECT.APP.API\\Controllers\\LoanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:23:48.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
